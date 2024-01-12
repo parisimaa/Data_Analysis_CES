@@ -1,7 +1,7 @@
 # Data_Analysis_CES
 
 <p align="center">
-  <img src="poster.png" alt="Image Description" width="400"/>
+  <img src="poster.png" alt="Image Description" width="500"/>
   <br>
   <em>Trends in US Computer, Engineering, & Science Occupations</em>
 </p>
