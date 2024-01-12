@@ -20,6 +20,38 @@ Examination of Computer, Engineering, and Science Occupations in the United Stat
 ## Diversity: 
 
 <img src="Presentation/image2.png" alt="Image Description">
+<img src="Presentation/image3.png" alt="Image Description">
+<img src="Presentation/image4.png" alt="Image Description">
+
+## Employment Trends:
+
+<img src="Presentation/image5.png" alt="Image Description">
+<img src="Presentation/image6.png" alt="Image Description">
+<img src="Presentation/image7.png" alt="Image Description">
+
+## Education: 
+
+<img src="Presentation/image8.png" alt="Image Description">
+<img src="Presentation/image9.png" alt="Image Description">
+<img src="Presentation/image10.png" alt="Image Description">
+
+## Industry:
+
+<img src="Presentation/image11.png" alt="Image Description">
+<img src="Presentation/image12.png" alt="Image Description">
+<img src="Presentation/image13.png" alt="Image Description">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
