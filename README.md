@@ -18,6 +18,7 @@ Examination of Computer, Engineering, and Science Occupations in the United Stat
 4. Industry: industry distribution, the largest share of occupations 
 
 ## Diversity: 
+![alt text](http://Presentation/image2.png)
 <p align="center">
   <img src="Presentation/image2.png" alt="Image Description" width="300"/>
   <br>
