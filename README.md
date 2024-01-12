@@ -19,7 +19,7 @@ Examination of Computer, Engineering, and Science Occupations in the United Stat
 
 ## Diversity: 
 
-<img src="Presentation/image2.png" alt="Image Description" width="300"/>
+<img src="Presentation/image2.png" alt="Image Description">
 
 
 
