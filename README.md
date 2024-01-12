@@ -1,7 +1,7 @@
 # Data_Analysis_CES
 
 <p align="center">
-  <img src="poster.png" alt="Image Description" width="300"/>
+  <img src="poster.png" alt="Image Description" width="400"/>
   <br>
   <em>Trends in US Computer, Engineering, & Science Occupations</em>
 </p>
@@ -16,6 +16,8 @@ Examination of Computer, Engineering, and Science Occupations in the United Stat
 3. Education: educational level, major
 
 4. Industry: industry distribution, the largest share of occupations 
+
+**In the images below, you'll find visual slides representing various sections. For an enhanced experience, please open the file in Tableau where you can access interactive features and customize parameters.**
 
 ## Diversity: 
 
