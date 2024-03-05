@@ -7,7 +7,8 @@
 </p>
 
 \
-Examination of Computer, Engineering, and Science Occupations in the United States using the IPUMS USA Dataset. This study explores employment patterns across various occupational categories in four key domains: diversity, employment trends, education, and industry, over the American Community Survey (ACS) 5-year period from 2017 to 2021. Utilized Tableau Prep Builder for data cleaning and Tableau for data visualization and analysis, enhancing the clarity and effectiveness of our findings.
+Examination of Computer, Engineering, and Science Occupations in the United States using the IPUMS USA Dataset. This study explores employment patterns across various occupational categories in four key domains: diversity, employment trends, education, and industry, over the American Community Survey (ACS) 5-year period from 2017 to 2021. Utilized Tableau Prep Builder for data cleaning and Tableau for data visualization and analysis, enhancing the clarity and effectiveness of our findings.\
+View interactive dashboard in Tableau Public website using the [link](https://public.tableau.com/views/TrendsinUSComputerEngineeringScienceOccupations/Analysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 1. Diversity: gender and age, ethnicity and race
 
